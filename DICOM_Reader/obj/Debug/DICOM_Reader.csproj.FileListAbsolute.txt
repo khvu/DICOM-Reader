@@ -1,0 +1,12 @@
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\obj\Debug\DICOM_Reader.SingleFrame_Form.resources
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\obj\Debug\DICOM_Reader.MultiFrames_Form.resources
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\obj\Debug\DICOM_Reader.Properties.Resources.resources
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\obj\Debug\DICOM_Reader.csproj.GenerateResource.Cache
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\bin\Debug\BR3DFSE.dcm
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\bin\Debug\CR-MONO1-10-chest.dcm
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\bin\Debug\DICOM Tags.csv
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\bin\Debug\DICOM_Reader.exe.config
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\bin\Debug\DICOM_Reader.exe
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\bin\Debug\DICOM_Reader.pdb
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\obj\Debug\DICOM_Reader.exe
+C:\Users\KV\Documents\Visual Studio 2013\Projects\DICOM_Reader\DICOM_Reader\obj\Debug\DICOM_Reader.pdb
